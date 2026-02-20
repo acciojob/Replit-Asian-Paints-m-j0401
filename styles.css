@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-#grid-container{
+.grid-container{
 	display:grid;
 	height:500px;
 	width:500px;
