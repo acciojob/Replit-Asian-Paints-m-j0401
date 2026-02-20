@@ -1,7 +1,7 @@
 //your JS code here. If required.
 
 let container=document.getElementById("grid-container");
-let color_inp=document.getElementById("color-id");
+let color_inp=document.getElementById("color_id");
 let btn=document.querySelector("button");
 let fragment=document.createDocumentFragment();
 for(let i=0;i<9;i++)
